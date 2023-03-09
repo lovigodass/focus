@@ -5,7 +5,6 @@ author: John
 createTime: 2023-02-18
 ---info---
 
-# 解释投机、套保和套利
 ## 生产资料
 　　资金：
 	时间：

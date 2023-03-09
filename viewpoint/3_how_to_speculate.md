@@ -5,7 +5,6 @@ author: John
 createTime: 2023-02-18
 ---info---
 
-# 投资生产资料
 ## 生产资料
 　　资金：
 	时间：

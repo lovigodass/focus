@@ -5,7 +5,6 @@ author: John
 createTime: 2023-02-22
 ---info---
 
-# 服务机构
 ### 资格考试
 + [证券从业资格](https://www.sac.net.cn/cyry/kspt/ksbm/) 
 + [基金从业资格](http://baoming.amac.org.cn/JJKSreg/page.htm) 

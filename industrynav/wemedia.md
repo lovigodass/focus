@@ -5,13 +5,12 @@ author: John
 createTime: 2023-02-22
 ---info---
 
-# 自媒体
-### 技术派
+## 技术派
 + [藏巧守拙](https://www.zhihu.com/people/azhu-di) 
 + [基金从业资格](http://baoming.amac.org.cn/JJKSreg/page.htm) 
 + [期货从业资格](http://www.cfachina.org/servicesupport/examination/qualificationexamination/zgksbm/) 
 
-### 思想派
+## 思想派
 + [付鹏的财经世界](https://www.zhihu.com/people/fupengshuo)
 + [香港证券及期货事务监察局](https://www.sfc.hk/en/)
 + [英国金融服务局](https://www.fca.org.uk/)

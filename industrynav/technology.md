@@ -5,8 +5,6 @@ author: John
 createTime: 2023-02-22
 ---info---
 
-# 信息技术
-
 ## 信息
 ### 指数
 + [中证商品指数有限责任公司](http://www.cscidx.com/)

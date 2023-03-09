@@ -5,7 +5,6 @@ author: John
 createTime: 2023-02-22
 ---info---
 
-# 交易所
 ## 中国大陆
 + [上海证券交易所](http://www.sse.com.cn/)
 + [深圳证券交易所](http://www.szse.cn/)
